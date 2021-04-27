@@ -6,14 +6,16 @@ com/pei/box/BoxTester.java
  com.pei.box.BoxTester
 com/pei/cust/Tester.java
  com.pei.cust.Tester
-com/pei/Person.java
- com.pei.Person
+com/pei/racing/Horse.java
+ com.pei.racing.Horse
 com/pei/box/Box.java
  com.pei.box.Box
 com/pei/HelloWorld.java
  com.pei.HelloWorld
 com/pei/rpg/Soldier.java
  com.pei.rpg.Soldier
+com/pei/racing/HorseRunnable.java
+ com.pei.racing.HorseRunnable
 com/pei/stud/GraduateStudent.java
  com.pei.stud.GraduateStudent
 com/pei/stud/Tester.java
@@ -24,11 +26,23 @@ com/pei/box/Box3.java
  com.pei.box.Box3
 com/pei/stud/Mailer.java
  com.pei.stud.Mailer
-com/pei/rpg/Villager.java
- com.pei.rpg.Villager
-com/pei/racing/Horse.java
- com.pei.racing.Horse
 com/pei/racing/Racing.java
  com.pei.racing.Racing
-com/pei/racing/HorseRunnable.java
- com.pei.racing.HorseRunnable
+com/pei/rpg/Villager.java
+ com.pei.rpg.Villager
+com/pei/Person.java
+ com.pei.Person
+com/pei/test/Box2.java
+ com.pei.test.Box2
+com/pei/test/Box4.java
+ com.pei.test.Box4
+com/pei/test/Box5.java
+ com.pei.test.Box5
+com/pei/test/Box1.java
+ com.pei.test.Box1
+com/pei/test/Box3.java
+ com.pei.test.Box3
+com/pei/test/Box.java
+ com.pei.test.Box
+com/pei/test/Tester.java
+ com.pei.test.Tester
