@@ -5,9 +5,28 @@ import com.pei.test.Box1;
 import com.pei.test.Box2;
 
 import java.util.ArrayList;
+import java.util.TreeSet;
 
 public class Tester {
     public static void main(String[] args) {
+        TreeSet<String> aa = new TreeSet<>();
+        System.out.println(aa.size());
+        aa.add("Hank");
+        aa.add("Tom");
+        aa.add("Eve");
+        aa.add("Hank");
+        System.out.println(aa.size());
+        System.out.println(aa);
+        for (String a:aa) {
+            System.out.println(a);
+
+        }
+
+
+
+
+
+
         int[] nums = new int[5];
         nums[0] = 3;
 //      nums[1] = "Hank";
