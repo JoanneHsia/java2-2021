@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class BoxTester {
     public static void main(String[] args) {
         Box3 box3 = new Box3();
+        Box[] boxes = {new Box1(),new Box2(),new Box3(), new Box4()};
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Please enter object's length: ");

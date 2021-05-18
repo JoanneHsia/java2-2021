@@ -9,11 +9,13 @@ public class Box3 extends Box{
 
     @Override
     public String getName() {
+
         return "BOX 3";
     }
 
     @Override
     public int getPrice() {
+
         return 60;
     }
 }
