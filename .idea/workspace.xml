@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7308e86b-af7a-46af-8a79-581b4de903be" name="Default Changelist" comment="collection">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/box/Box1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/box/Box2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/box/Box4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="7308e86b-af7a-46af-8a79-581b4de903be" name="Default Changelist" comment="20210518">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/snowing/MainWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/snowing/Snow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/snowing/SnowCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/snowing/Snowing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pei/box/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pei/box/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pei/box/Box3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pei/box/Box3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pei/box/BoxTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pei/box/BoxTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
       <recent name="com.pei.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BoxTester">
+  <component name="RunManager" selected="Application.Snowing">
     <configuration name="BoxTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pei.box.BoxTester" />
       <module name="java2-20210323.main" />
@@ -77,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Racing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pei.racing.Racing" />
+    <configuration name="MainWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pei.snowing.MainWin" />
       <module name="java2-20210323.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pei.racing.*" />
+          <option name="PATTERN" value="com.pei.snowing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pei.test.Tester" />
+    <configuration name="Snowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pei.snowing.Snowing" />
       <module name="java2-20210323.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pei.test.*" />
+          <option name="PATTERN" value="com.pei.snowing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Snowing" />
+        <item itemvalue="Application.MainWin" />
         <item itemvalue="Application.BoxTester" />
         <item itemvalue="Application.Tester (3)" />
         <item itemvalue="Application.Tester (2)" />
-        <item itemvalue="Application.Tester (1)" />
-        <item itemvalue="Application.Racing" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619510402184</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20210518">
+      <created>1621324236636</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621324236636</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,7 +193,8 @@
     <MESSAGE value="abstract class &amp; method" />
     <MESSAGE value="nice box" />
     <MESSAGE value="collection" />
-    <option name="LAST_COMMIT_MESSAGE" value="collection" />
+    <MESSAGE value="20210518" />
+    <option name="LAST_COMMIT_MESSAGE" value="20210518" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
