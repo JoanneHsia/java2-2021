@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7308e86b-af7a-46af-8a79-581b4de903be" name="Default Changelist" comment="about Map, key and value">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/car/CarWin.java" afterDir="false" />
+    <list default="true" id="7308e86b-af7a-46af-8a79-581b4de903be" name="Default Changelist" comment="Parking practice">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/car/CarDemo.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/car/CarDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +48,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="148" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="306" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -57,9 +61,9 @@
       <recent name="com.pei.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarWin">
-    <configuration name="CarWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pei.car.CarWin" />
+  <component name="RunManager" selected="Application.CarDemo">
+    <configuration name="CarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pei.car.CarDemo" />
       <module name="java2-20210323.main" />
       <extension name="coverage">
         <pattern>
@@ -71,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pei.snowing.MainWin" />
+    <configuration name="CarWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pei.car.CarWin" />
       <module name="java2-20210323.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pei.snowing.*" />
+          <option name="PATTERN" value="com.pei.car.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarDemo" />
         <item itemvalue="Application.CarWin" />
         <item itemvalue="Application.Snowing" />
         <item itemvalue="Application.MapTester" />
         <item itemvalue="Application.Tester" />
-        <item itemvalue="Application.MainWin" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622527687713</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Parking practice">
+      <created>1622532051846</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622532051846</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,7 +218,8 @@
     <MESSAGE value="20210518" />
     <MESSAGE value="Snowing" />
     <MESSAGE value="about Map, key and value" />
-    <option name="LAST_COMMIT_MESSAGE" value="about Map, key and value" />
+    <MESSAGE value="Parking practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parking practice" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
