@@ -13,17 +13,19 @@ public class CarWin {
         frame.setSize(WIDTH, HEIGHT);
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
-        JButton button1 = new JButton("停車場");
-        frame.add(button1, BorderLayout.NORTH);
+        //JButton button1 = new JButton("停車場");
+        //frame.add(button1, BorderLayout.NORTH);
 
 
         frame.setVisible(true);
 
 
     }
+    /*
     public void paint(Graphics g) {
         g.setColor(Color.BLACK);
         g.drawString("停車場", 280, 100);
     }
+     */
 
 }
