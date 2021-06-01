@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7308e86b-af7a-46af-8a79-581b4de903be" name="Default Changelist" comment="Snowing">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/car/MapTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/car/Tester.java" afterDir="false" />
+    <list default="true" id="7308e86b-af7a-46af-8a79-581b4de903be" name="Default Changelist" comment="about Map, key and value">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pei/car/CarWin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,13 +57,13 @@
       <recent name="com.pei.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MapTester">
-    <configuration name="BoxTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pei.box.BoxTester" />
+  <component name="RunManager" selected="Application.CarWin">
+    <configuration name="CarWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pei.car.CarWin" />
       <module name="java2-20210323.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.pei.box.*" />
+          <option name="PATTERN" value="com.pei.car.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarWin" />
+        <item itemvalue="Application.Snowing" />
         <item itemvalue="Application.MapTester" />
         <item itemvalue="Application.Tester" />
-        <item itemvalue="Application.Snowing" />
         <item itemvalue="Application.MainWin" />
-        <item itemvalue="Application.BoxTester" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621652586348</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="about Map, key and value">
+      <created>1622527687713</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622527687713</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +206,8 @@
     <MESSAGE value="collection" />
     <MESSAGE value="20210518" />
     <MESSAGE value="Snowing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snowing" />
+    <MESSAGE value="about Map, key and value" />
+    <option name="LAST_COMMIT_MESSAGE" value="about Map, key and value" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
